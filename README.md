@@ -3,7 +3,7 @@
 # Welcome to Liract
 
 Liract is a free encryption tool to easily encrypt any Latin text. The software does have the same method for everyone, making it only a fun tool to mess with.
-For a real encryption version of Liract, please use [**Enract**](https://enract.bloodalibi.com/).
+For a real encryption version of Liract, please use [**Enract**](https://github.com/BloodAlibi/EnractVersion).
 
 This software is discontinued and will no longer receive updates. You can still use stable versions, available in Releases.
 
